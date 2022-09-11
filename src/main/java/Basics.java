@@ -62,7 +62,7 @@ public class Basics {
          * TODO (Task 2): Create a variable named my_variable and assign it the
          *                value 100.
          */
-        int my_variable = 100
+        int my_variable = 100;
 
 
         /* Do not remove the line below: if you did task 2 correctly, then
@@ -185,7 +185,7 @@ public class Basics {
         
         else {
             for (int i = 1; i <= arr.length; i = i + 2){
-                current_sum = current_sum + arr[i]
+                current_sum = current_sum + arr[i];
             }
             
         }
